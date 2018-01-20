@@ -16,7 +16,9 @@ ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
 
 # 定义handler的输出格式
-formatter = logging.Formatter('[%(asctime)s][%(process)d][%(thread)d][%(filename)s][line: %(lineno)d][%(levelname)s] ## %(message)s')
+formatter = logging.Formatter(
+    '[%(asctime)s][%(process)d][%(thread)d][%(filename)s][line: %(lineno)d][%(levelname)s] ## %(message)s')
+
 fh.setFormatter(formatter)
 ch.setFormatter(formatter)
 
@@ -30,5 +32,3 @@ logger.info('foorbar')
 logger.warning('foorbar')
 logger.error('foorbar')
 print(multiprocessing.current_process().pid)
-
-
