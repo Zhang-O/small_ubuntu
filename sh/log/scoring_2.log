@@ -1,0 +1,107 @@
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.78,gop_lat:0.78,sim_feat1:0.83,sim_feat2:0.67
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.72,gop_lat:0.80,sim_feat1:0.57,sim_feat2:0.71
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:407] INFO QuesID:4,wer:36.97,gop_lat:0.81,gop_raw:0.43
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.86,gop_lat:0.88,sim_feat1:0.81,sim_feat2:0.97
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:431] INFO --1 students have been evaluated,remain 21 stduents,Estiamate 0.6004197001457214 min are left.--
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.46,gop_lat:0.51,sim_feat1:0.20,sim_feat2:0.40
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.79,gop_lat:0.85,sim_feat1:0.43,sim_feat2:0.61
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:407] INFO QuesID:4,wer:34.55,gop_lat:0.70,gop_raw:0.35
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.56,gop_lat:0.68,sim_feat1:0.48,sim_feat2:0.81
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:431] INFO --2 students have been evaluated,remain 20 stduents,Estiamate 0.052845001220703125 min are left.--
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.60,gop_lat:0.76,sim_feat1:0.00,sim_feat2:0.54
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.82,gop_lat:1.00,sim_feat1:0.14,sim_feat2:0.36
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:407] INFO QuesID:4,wer:98.32,gop_lat:0.58,gop_raw:0.24
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.61,gop_lat:0.75,sim_feat1:0.39,sim_feat2:0.84
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:431] INFO --3 students have been evaluated,remain 19 stduents,Estiamate 0.05408476988474528 min are left.--
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.63,gop_lat:0.67,sim_feat1:0.33,sim_feat2:0.56
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.76,gop_lat:0.82,sim_feat1:1.00,sim_feat2:0.77
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:407] INFO QuesID:4,wer:10.34,gop_lat:0.89,gop_raw:0.46
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.79,gop_lat:0.82,sim_feat1:0.74,sim_feat2:0.93
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:431] INFO --4 students have been evaluated,remain 18 stduents,Estiamate 0.056432247161865234 min are left.--
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.60,gop_lat:0.79,sim_feat1:0.38,sim_feat2:0.71
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.68,gop_lat:0.71,sim_feat1:0.40,sim_feat2:0.56
+Mon,22 2018 20:00:39 AutoScoreMain.py[line:407] INFO QuesID:4,wer:56.00,gop_lat:0.74,gop_raw:0.36
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.64,gop_lat:0.75,sim_feat1:0.47,sim_feat2:0.88
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:431] INFO --5 students have been evaluated,remain 17 stduents,Estiamate 0.06515566110610962 min are left.--
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.50,gop_lat:0.55,sim_feat1:0.33,sim_feat2:0.59
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.74,gop_lat:0.84,sim_feat1:0.71,sim_feat2:0.68
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:407] INFO QuesID:4,wer:28.57,gop_lat:0.78,gop_raw:0.47
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.73,gop_lat:0.77,sim_feat1:0.81,sim_feat2:0.97
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:431] INFO --6 students have been evaluated,remain 16 stduents,Estiamate 0.055356470743815105 min are left.--
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.80,gop_lat:0.83,sim_feat1:0.67,sim_feat2:0.88
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.56,gop_lat:0.64,sim_feat1:0.86,sim_feat2:0.72
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:407] INFO QuesID:4,wer:30.19,gop_lat:0.77,gop_raw:0.38
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.65,gop_lat:0.76,sim_feat1:0.58,sim_feat2:0.86
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:431] INFO --7 students have been evaluated,remain 15 stduents,Estiamate 0.04932910203933716 min are left.--
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.51,gop_lat:0.58,sim_feat1:0.44,sim_feat2:0.82
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:1.00,gop_lat:1.00,sim_feat1:0.33,sim_feat2:0.84
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:407] INFO QuesID:4,wer:45.69,gop_lat:0.71,gop_raw:0.32
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.68,gop_lat:0.79,sim_feat1:0.64,sim_feat2:0.86
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:431] INFO --8 students have been evaluated,remain 14 stduents,Estiamate 0.04741357962290446 min are left.--
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.65,gop_lat:0.74,sim_feat1:0.25,sim_feat2:0.67
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.48,gop_lat:0.60,sim_feat1:0.17,sim_feat2:0.59
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:407] INFO QuesID:4,wer:84.26,gop_lat:0.61,gop_raw:0.25
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.58,gop_lat:0.78,sim_feat1:0.27,sim_feat2:0.81
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:431] INFO --9 students have been evaluated,remain 13 stduents,Estiamate 0.03917859395345052 min are left.--
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.54,gop_lat:0.56,sim_feat1:0.67,sim_feat2:0.81
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.64,gop_lat:0.87,sim_feat1:0.43,sim_feat2:0.48
+Mon,22 2018 20:00:40 AutoScoreMain.py[line:407] INFO QuesID:4,wer:10.38,gop_lat:0.78,gop_raw:0.40
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.73,gop_lat:0.78,sim_feat1:0.69,sim_feat2:0.87
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --10 students have been evaluated,remain 12 stduents,Estiamate 0.03241996765136719 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.57,gop_lat:0.85,sim_feat1:0.75,sim_feat2:0.57
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.55,gop_lat:0.89,sim_feat1:0.00,sim_feat2:0.37
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:407] INFO QuesID:4,wer:84.68,gop_lat:0.51,gop_raw:0.18
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.57,gop_lat:0.70,sim_feat1:0.38,sim_feat2:0.80
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --11 students have been evaluated,remain 11 stduents,Estiamate 0.033344054222106935 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.56,gop_lat:0.64,sim_feat1:0.57,sim_feat2:0.66
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.67,gop_lat:0.69,sim_feat1:0.25,sim_feat2:0.48
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:407] INFO QuesID:4,wer:49.04,gop_lat:0.77,gop_raw:0.44
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.76,gop_lat:0.83,sim_feat1:0.64,sim_feat2:0.92
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --12 students have been evaluated,remain 10 stduents,Estiamate 0.028316020965576172 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.72,gop_lat:0.79,sim_feat1:0.57,sim_feat2:0.65
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.69,gop_lat:0.71,sim_feat1:0.00,sim_feat2:0.49
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:407] INFO QuesID:4,wer:51.92,gop_lat:0.76,gop_raw:0.37
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.62,gop_lat:0.72,sim_feat1:0.52,sim_feat2:0.92
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --13 students have been evaluated,remain 9 stduents,Estiamate 0.02732301950454712 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.76,gop_lat:0.83,sim_feat1:0.50,sim_feat2:0.50
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.50,gop_lat:0.57,sim_feat1:0.50,sim_feat2:0.60
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:407] INFO QuesID:4,wer:36.04,gop_lat:0.74,gop_raw:0.35
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.65,gop_lat:0.75,sim_feat1:0.49,sim_feat2:0.89
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --14 students have been evaluated,remain 8 stduents,Estiamate 0.0255918820699056 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --15 students have been evaluated,remain 7 stduents,Estiamate 3.059705098470052e-07 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.72,gop_lat:0.76,sim_feat1:0.00,sim_feat2:0.30
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.39,gop_lat:0.51,sim_feat1:0.00,sim_feat2:0.13
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:407] INFO QuesID:4,wer:72.22,gop_lat:0.56,gop_raw:0.28
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.59,gop_lat:0.67,sim_feat1:0.22,sim_feat2:0.72
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:431] INFO --16 students have been evaluated,remain 6 stduents,Estiamate 0.016313886642456053 min are left.--
+Mon,22 2018 20:00:41 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.79,gop_lat:1.00,sim_feat1:0.40,sim_feat2:0.35
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:1.00,gop_lat:1.00,sim_feat1:0.29,sim_feat2:0.78
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:407] INFO QuesID:4,wer:19.09,gop_lat:0.91,gop_raw:0.51
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.81,gop_lat:0.85,sim_feat1:0.76,sim_feat2:0.96
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] INFO --17 students have been evaluated,remain 5 stduents,Estiamate 0.01327053705851237 min are left.--
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.73,gop_lat:0.82,sim_feat1:0.50,sim_feat2:0.63
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.75,gop_lat:0.82,sim_feat1:0.86,sim_feat2:0.81
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:407] INFO QuesID:4,wer:8.49,gop_lat:0.83,gop_raw:0.46
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.73,gop_lat:0.77,sim_feat1:0.75,sim_feat2:0.89
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] INFO --18 students have been evaluated,remain 4 stduents,Estiamate 0.011823415756225586 min are left.--
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.79,gop_lat:0.79,sim_feat1:0.57,sim_feat2:0.67
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.63,gop_lat:0.66,sim_feat1:0.71,sim_feat2:0.70
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:407] INFO QuesID:4,wer:12.78,gop_lat:0.87,gop_raw:0.45
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.65,gop_lat:0.74,sim_feat1:0.65,sim_feat2:0.89
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] INFO --19 students have been evaluated,remain 3 stduents,Estiamate 0.008334672451019287 min are left.--
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.54,gop_lat:0.71,sim_feat1:0.62,sim_feat2:0.55
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.47,gop_lat:0.52,sim_feat1:0.43,sim_feat2:0.71
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:407] INFO QuesID:4,wer:64.29,gop_lat:0.68,gop_raw:0.35
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.63,gop_lat:0.72,sim_feat1:0.61,sim_feat2:0.90
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] INFO --20 students have been evaluated,remain 2 stduents,Estiamate 0.006042631467183431 min are left.--
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.56,gop_lat:0.69,sim_feat1:0.38,sim_feat2:0.66
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.66,gop_lat:0.80,sim_feat1:0.20,sim_feat2:0.51
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:407] INFO QuesID:4,wer:31.20,gop_lat:0.79,gop_raw:0.43
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.73,gop_lat:0.77,sim_feat1:0.53,sim_feat2:0.89
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] INFO --21 students have been evaluated,remain 1 stduents,Estiamate 0.00293728510538737 min are left.--
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-2,gop_lat:0.68,gop_lat:0.82,sim_feat1:0.25,sim_feat2:0.42
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:5-1,gop_lat:0.56,gop_lat:0.58,sim_feat1:0.71,sim_feat2:0.81
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:407] INFO QuesID:4,wer:30.61,gop_lat:0.69,gop_raw:0.34
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:428] INFO QuesID:6,gop_lat:0.62,gop_lat:0.69,sim_feat1:0.53,sim_feat2:0.92
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] INFO --22 students have been evaluated,remain 0 stduents,Estiamate 0.0 min are left.--
+Mon,22 2018 20:00:42 AutoScoreMain.py[line:431] ERROR --22 students have been evaluated,remain 0 stduents,Estiamate 0.0 min are left.--
