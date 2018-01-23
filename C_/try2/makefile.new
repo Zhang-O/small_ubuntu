@@ -1,0 +1,12 @@
+# 每行命令在一个单独的shell中执行。这些Shell之间没有继承关系
+#.ONESHELL:
+var-lost:
+	@# for notation
+	@export foo=bar;echo "foo=[$$foo]"
+	@# for notation2
+txt = Hello World
+test:
+	@echo $(txt)
+	@echo $$HOME
+	@echo $(CC)
+	@echo $(MAKE)
