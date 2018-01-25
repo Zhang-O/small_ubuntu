@@ -24,7 +24,7 @@ while true
 do
     for i in `ls ${logdir}`;
     do
-            echo "#####the ${i} th process log :#####"
+        echo "#####the ${i} th process log :#####"
         echo ${i}
 #        cat ${logdir}/${i} | grep -iv "ERROR"
         awk '/ERROR/' ${logdir}/${i}
