@@ -26,8 +26,11 @@ do
     do
         echo "#####the ${i} th process log :#####"
         echo ${i}
-#        cat ${logdir}/${i} | grep -iv "ERROR"
-        awk '/ERROR/' ${logdir}/${i}
+#        cat ${logdir}/${i} | grep -iv "ERROR" # will not work as you think
+
+#        awk '/ERROR/' ${logdir}/${i}
+        awk '$5=="ERROR"' ${logdir}/${i}
+
 
 #        tail -1 $logdir/${i}
     done
